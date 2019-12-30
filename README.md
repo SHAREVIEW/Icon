@@ -15,4 +15,4 @@ http://modernuiicons.com/
 
 ![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
 
-![image](https://github.com/SHAREVIEW/Icon/blob/master/123123.gif）
+![image](123123.gif)
